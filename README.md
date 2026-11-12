@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# web-jasa-fotografi
+Proyek kelompok pengembangan aplikasi web pemesanan jasa fotografi berbasis Laravel dengan PHP 8.5 dan database MySQL. Sistem ini dirancang untuk memudahkan pelanggan dalam melihat layanan fotografi, melakukan pemesanan, serta membantu pengelolaan data dan transaksi jasa fotografi.
+>>>>>>> 48d065a4eb2469963bcb9d4afdea4416461eb596
